@@ -1,5 +1,5 @@
 # Next Level Week #04 - Trilha Node.js
--> Projeto desenvolvido durante a Next Level Week #04 da Rocketseat
+-> Projeto desenvolvido durante a Next Level Week #04 da Rocketseat.
 
 ## Resumo
 Nessa aplicação foi desenvolvida uma API, de usuários e pesquisas, programada em TypeScript com o Nodejs. Essa que realiza uma pesquisa de opinião, em formato de notas, com os usuários através do envio de email com um questionamento, esperando uma reposta. E por meio dessas respostas recebidas, faz um cálculo do NPS (Net Promoter Score).
